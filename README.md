@@ -2,8 +2,8 @@
 
 This project records Multi-view Learning！
 
-## Robust Subspace Learning Based on Non-negative Tucker Decomposition for Incomplete Multi-view Clustering (SONTDML)
-The first paper titled “Robust Subspace Learning Based on Non-negative Tucker Decomposition for Incomplete Multi-view Clustering (SONTDML)”. The [***SONTDML file***](./SONTDML) shows the sample code of "Title: Robust Subspace Learning Based on Non-negative Tucker Decomposition for Incomplete Multi-view Clustering".
+## Robust Subspace Learning Based Orthogonal Non-negative Tucker Decomposition for Incomplete Multi-view Clustering (SONTDML)
+The first paper titled “Robust Subspace Learning Based Orthogonal Non-negative Tucker Decomposition for Incomplete Multi-view Clustering (SONTDML)”. The [***SONTDML file***](./SONTDML) shows the sample code of "Title: Robust Subspace Learning Based on Non-negative Tucker Decomposition for Incomplete Multi-view Clustering".
 
 <div id = "fig1" align = "center">
 <img src="SONTDML/image/SONTDL5.png" width = "67%" />
